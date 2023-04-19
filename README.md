@@ -1,5 +1,3 @@
-# ds_classification
-
 
 # Classification model training
 
